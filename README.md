@@ -16,6 +16,9 @@ Currently studying and building hands-on labs involving:
 
 AWS Certified Cloud Practitioner (CLF-C02)
 
+View credential:
+[https://www.credly.com/badges/](https://www.credly.com/badges/77d3254b-b931-4603-8012-0ad00557812a/public_url)
+
 ![AWS CLF-C02 Certification](certifications/aws-certified-cloud-practitioner.png)
 
 ## ☁️ Skills
