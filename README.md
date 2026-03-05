@@ -42,18 +42,29 @@ Programming
 
 ## 📦 Projects
 
-## AWS Infrastructure Lab
-Hands-on project creating cloud infrastructure with Terraform.
+## Projects
 
-Technologies:
-- AWS
-- Terraform
-- EC2
-- VPC
-- Security Groups
+### Terraform AWS Lab
+Hands-on infrastructure experiments using Terraform.
 
 Repo:
-(terraform repo link)
+https://github.com/seuusuario/terraform-aws-lab
+
+---
+
+### Docker Learning Lab
+Experiments with Docker and containerized applications.
+
+Repo:
+https://github.com/seuusuario/docker-learning-lab
+
+---
+
+### GitHub Actions CI/CD
+Automation and CI/CD pipeline experiments.
+
+Repo:
+https://github.com/seuusuario/github-actions-ci
 
 ---
 
