@@ -1,6 +1,8 @@
 # Cloud & DevOps Portfolio
 
-Hi! I'm an aspiring Cloud Infrastructure Engineer focused on AWS and DevOps practices.
+Hi! I'm an aspiring Cloud Infrastructure Engineer with a strong interest in AWS and DevOps practices.
+
+This repository contains my cloud learning journey, hands-on labs, architecture diagrams, and certifications.
 
 Currently studying and building hands-on labs involving:
 
@@ -10,10 +12,11 @@ Currently studying and building hands-on labs involving:
 - CI/CD pipelines
 - Cloud Architecture fundamentals
 
-AWS Certified:
-- AWS Certified Cloud Practitioner (CLF-C02)
+## Certifications
 
----
+AWS Certified Cloud Practitioner (CLF-C02)
+
+![AWS CLF-C02 Certification](certifications/aws-clf-c02.png)
 
 # Skills
 
@@ -50,6 +53,12 @@ Repo:
 (terraform repo link)
 
 ---
+
+## Architecture Example
+
+Example of a basic AWS cloud architecture.
+
+![AWS Architecture](architecture/aws-basic-architecture.png)
 
 # Docker Learning Lab
 
