@@ -18,7 +18,7 @@ AWS Certified Cloud Practitioner (CLF-C02)
 
 ![AWS CLF-C02 Certification](certifications/aws-clf-c02.png)
 
-# Skills
+## ☁️ Skills
 
 Cloud
 - AWS (EC2, S3, IAM, VPC, CloudWatch)
@@ -37,7 +37,7 @@ Programming
 
 ---
 
-# Projects
+## 📦 Projects
 
 ## AWS Infrastructure Lab
 Hands-on project creating cloud infrastructure with Terraform.
@@ -54,7 +54,7 @@ Repo:
 
 ---
 
-## Architecture Example
+## 🏗 Architecture Example
 
 Example of a basic AWS cloud architecture.
 
@@ -92,16 +92,7 @@ Repo:
 
 ---
 
-# Architecture Diagrams
-
-Examples of cloud architectures I've built.
-
-(images here)
-
----
-
-# Goals
-
+## 🎯 Goals
 My goal is to become a Cloud Infrastructure Architect focused on scalable and reliable cloud systems.
 
 Currently learning:
