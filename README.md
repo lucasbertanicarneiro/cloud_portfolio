@@ -16,7 +16,7 @@ Currently studying and building hands-on labs involving:
 
 AWS Certified Cloud Practitioner (CLF-C02)
 
-![AWS CLF-C02 Certification](certifications/aws-clf-c02.png)
+![AWS CLF-C02 Certification](certifications/aws-certified-cloud-practitioner.png)
 
 ## ☁️ Skills
 
