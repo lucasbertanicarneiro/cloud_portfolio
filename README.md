@@ -1,33 +1,103 @@
-# Cloud Portfolio Project
+# Cloud & DevOps Portfolio
 
-## Overview
-This project showcases my journey and accomplishments in cloud computing. It highlights the skills and experiences I've gained while working with various cloud platforms and technologies.
+Hi! I'm an aspiring Cloud Infrastructure Engineer focused on AWS and DevOps practices.
 
-## Contents
-- Introduction
-- Projects
-- Skills
-- Contact Information
+Currently studying and building hands-on labs involving:
 
-## Introduction
-The Cloud Portfolio Project serves as a comprehensive overview of my expertise in the cloud domain, including hands-on experience with AWS, Azure, and Google Cloud.
+- AWS Infrastructure
+- Docker Containers
+- Infrastructure as Code
+- CI/CD pipelines
+- Cloud Architecture fundamentals
 
-## Projects
-### 1. Web Application Hosting
-- Deployed a fully functional web application on AWS using Elastic Beanstalk.
-- Implemented CI/CD pipelines for streamlined updates.
+AWS Certified:
+- AWS Certified Cloud Practitioner (CLF-C02)
 
-### 2. Data Analysis Project
-- Analyzed large datasets using Azure Databricks.
-- Created visualizations and dashboards.
+---
 
-### 3. Serverless Architecture
-- Developed applications using serverless architectures on AWS Lambda.
+# Skills
 
-## Skills
-- AWS, Azure, Google Cloud
-- DevOps tools (Docker, Kubernetes)
-- Programming languages (Python, JavaScript)
+Cloud
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
 
-## Contact Information
-For inquiries, please reach out to lucasbertanicarneiro@example.com.
+DevOps
+- Docker
+- GitHub Actions
+- Linux
+
+Infrastructure as Code
+- Terraform (learning)
+
+Programming
+- Python
+- Bash
+
+---
+
+# Projects
+
+## AWS Infrastructure Lab
+Hands-on project creating cloud infrastructure with Terraform.
+
+Technologies:
+- AWS
+- Terraform
+- EC2
+- VPC
+- Security Groups
+
+Repo:
+(terraform repo link)
+
+---
+
+# Docker Learning Lab
+
+This repository documents my journey learning Docker.
+
+Topics practiced:
+
+- Creating Docker images
+- Writing Dockerfiles
+- Running containers
+- Docker Compose basics
+
+Goal:
+Understand how containerization works and how it integrates with cloud infrastructure.
+
+Next steps:
+- Push images to Docker Hub
+- Deploy container to AWS EC2
+
+## CI/CD Pipeline
+
+Continuous Integration pipeline using GitHub Actions.
+
+Technologies:
+- GitHub Actions
+- Docker
+- CI/CD
+
+Repo:
+(ci-cd repo link)
+
+---
+
+# Architecture Diagrams
+
+Examples of cloud architectures I've built.
+
+(images here)
+
+---
+
+# Goals
+
+My goal is to become a Cloud Infrastructure Architect focused on scalable and reliable cloud systems.
+
+Currently learning:
+
+- Kubernetes
+- Advanced Terraform
+- AWS networking
+- Observability
