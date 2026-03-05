@@ -101,3 +101,6 @@ Currently learning:
 - Advanced Terraform
 - AWS networking
 - Observability
+
+GitHub: https://github.com/lucasbertanicarneiro
+Linkedin: 
