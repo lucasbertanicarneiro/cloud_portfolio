@@ -24,7 +24,7 @@ Cloud
 - AWS (EC2, S3, IAM, VPC, CloudWatch)
 
 DevOps
-- Docker
+- Docker (learning)
 - GitHub Actions
 - Linux
 
